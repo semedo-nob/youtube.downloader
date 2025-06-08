@@ -30,7 +30,7 @@ A simple Python GUI application to download YouTube videos as MP3 audio files us
 
 ### 🔧 Step 1: Clone the Repository
 
-git clone https://github.com/yourusername/youtube-mp3-downloader.git
+git clone https://github.com/semedo-nob/youtube-mp3-downloader.git
 cd youtube-mp3-downloader
 🛠️ Step 2: Create and Activate Virtual Environment
 
